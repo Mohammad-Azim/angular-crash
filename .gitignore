@@ -22,7 +22,6 @@ pubspec.lock
 .vscode/launch.json
 .vscode/settings.json
 .vscode/tasks.json
-.vscode
 .vimrc
 *.swo
 *.swp
