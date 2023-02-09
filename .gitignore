@@ -22,6 +22,7 @@ pubspec.lock
 .vscode/launch.json
 .vscode/settings.json
 .vscode/tasks.json
+*.vscode
 .vimrc
 *.swo
 *.swp
@@ -29,7 +30,9 @@ modules/.settings
 modules/.vscode
 .vimrc
 .nvimrc
+.angular
 
+.vscode
 # Don't check in secret files
 *secret.js
 
